@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Info>
+    <Stu>
+        <IP>10.10.101.10</IP>
+        <port>88</port>
+        <user>Shenzhen</user>
+    </Stu>
+    <Stu class="A" id="2" flag="20">
+        
+    </Stu>
+    <Stu class="B" id="3" flag="30">
+        <name>mike</name>
+        <score>88</score>
+        <city>Shenzhen</city>
+    </Stu>
+</Info>
